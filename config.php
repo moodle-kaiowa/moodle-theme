@@ -19,7 +19,7 @@
   *
   * @package    theme
   * @subpackage UFGD
-  * @copyright  2013 Guto Moraes  {@link http://www.ideias12.com.br}
+  * @copyright  2014 Guto Moraes  {@link http://www.ideias12.com.br}
   * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
   */
 
